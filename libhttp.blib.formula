@@ -4,3 +4,5 @@ class:Library() {
     @required public array  scripts push "libhttp.oo.sh"
               public string description = "treat HTTP requests"
 }
+
+Type::InitializeStatic Library
