@@ -1,6 +1,6 @@
 class:Library() {
     @required public string name = "libhttp"
-    @required public string url = "https://github.com/Cj-bc/libhttp.git"
-    @required public array  scripts push "libhttp"
+    @required public string url = "https://github.com/Cj-bc/libhttp"
+    @required public array  scripts push "libhttp.oo.sh"
               public string description = "treat HTTP requests"
 }
